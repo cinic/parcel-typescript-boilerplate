@@ -1,2 +1,2 @@
-# rollup-typescript-boilerpalte
-Rollup Typescript Starter Kit
+# parcel-typescript-boilerpalte
+Parcel Typescript Starter Kit
